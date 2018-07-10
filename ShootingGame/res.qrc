@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+	<file>res/rocket.png</file>
+	<file>res/owl.png</file>
+	<file>res/star.png</file>
+	<file>res/flower.png</file>
+	<file>res/background.png</file>
+	<file>res/blood.png</file>
+	<file>res/instructor.png</file>
+	<file>res/rules.png</file>
+	<file>res/score.png</file>
+	<file>res/winner.png</file>
+	<file>res/loser.png</file>
+	<file>res/pill.png</file>
+	<file>res/night.png</file>
+    </qresource>
+</RCC>
